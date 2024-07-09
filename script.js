@@ -10,5 +10,5 @@ moveButton.addEventListener("click", function () {
 });
 
 correctlyButton.addEventListener("click", function () {
-    alert("Resposta correta! Estamos namorando");
+    alert("Resposta correta! Vamos comer carbonara");
 });
